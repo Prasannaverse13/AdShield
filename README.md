@@ -122,8 +122,3 @@ For production deployment:
 2. Set production environment variables
 3. Start the production server: `npm start`
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
