@@ -2,7 +2,7 @@ import FingerprintJS from '@fingerprintjs/fingerprintjs-pro';
 
 // Initialize the agent with your API key
 export const fpPromise = FingerprintJS.load({
-  apiKey: "eO5OnARFHQoPYX3a6LeM",
+  apiKey: "your API",
   region: "ap" // Asia Pacific region
 });
 
